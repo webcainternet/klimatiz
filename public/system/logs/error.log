@@ -1,0 +1,17 @@
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: maintenance in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 93
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: informations in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 95
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_contact in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 103
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: return in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 104
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_return in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 104
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: sitemap in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 105
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_sitemap in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 105
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: manufacturer in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 109
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_manufacturer in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 109
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: voucher in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 110
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_voucher in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 110
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: affiliate in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 111
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_affiliate in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 111
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: special in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 112
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_special in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 112
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: newsletter in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 116
+2015-01-10 12:45:55 - PHP Notice:  Undefined variable: text_newsletter in C:\wamp\www\502\catalog\view\theme\theme502\template\common\header.tpl on line 116
