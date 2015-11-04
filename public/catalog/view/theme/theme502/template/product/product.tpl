@@ -293,7 +293,7 @@
 						<?php } ?>
 					</div>
 				
-					<!-- Add to cart form -->
+					<!-- Comprar form -->
 					<div class="form-group form-horizontal">
 						<div class="form-group">
 							<label class="control-label col-sm-4" for="input-quantity"><?php echo $entry_qty; ?></label>

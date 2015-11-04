@@ -14,11 +14,11 @@
 				$_['reviews']          = 'reviews ';
 				$_['text_product']          = 'Product {current} of {total} ';
 				
- $_['button_cart'] = 'Add to cart'; 
+ $_['button_cart'] = 'Comprar'; 
 $_['heading_title'] = 'Specials';
 
 // Text
 $_['text_tax']      = 'Ex Tax:';
 
-			$_['text_sale']      = 'Sale!';
+			$_['text_sale']      = 'Oferta';
 			

@@ -1,6 +1,6 @@
 <?php
 // Heading
- $_['button_cart'] = 'Add to cart'; 
+ $_['button_cart'] = 'Comprar'; 
 $_['heading_title'] = 'Bestsellers';
 
 // Text

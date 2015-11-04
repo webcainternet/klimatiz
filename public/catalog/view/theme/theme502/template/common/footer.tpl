@@ -47,9 +47,11 @@
 		</div>
 		<div class="col-sm-4">
 			<div class="footer_box social">
-				<h5><?php echo $text_follow; ?></h5>
-				<a href="//www.facebook.com/"><i class="fa fa-facebook"></i></a>
-				<a href="//www.twitter.com/"><i class="fa fa-twitter"></i></a>
+				<h5>Aceitamos</h5>
+				<img style="margin-top: -15px;" src="/image/bandeiras.png">
+
+				<h5 style="margin-top: 10px; font-size: 12px;">Certificado de Segurança:</h5>
+				<img style="margin-top: -13px;" src="/image/selo-ssl.png">
 			</div>
 		</div>
 	</div>
