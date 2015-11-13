@@ -1,3 +1,7 @@
+<div style="margin: auto; width: 1200px; margin-bottom: 30px;">
+	<img src="/image/banner-agaplink.jpg" width="1200">
+</div>
+
 <footer>
   <div class="container">
 	<div class="row">

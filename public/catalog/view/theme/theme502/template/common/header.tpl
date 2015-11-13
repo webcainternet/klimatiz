@@ -180,10 +180,74 @@
 </div>
 <?php } ?>
 <?php if ($categories) { ?>
+<style type="text/css">
+	.icondiv {
+	    float: left;
+	    width: 142.5px;
+	    height: 70px;
+	    background-color: #071242;
+	    margin: 5px 5px 5px 0px;
+	    text-align: center;
+    	font-size: 10px;
+	}
+	.icondiv:hover {
+		background-color: #F7A553;
+	}
+	.iconimg {
+	    height: 50px;
+	    margin-bottom: -6px;
+	}
+</style>
 <div class="container">
 	<div id="tm_menu">			
-		<ul class="menu"><li><a class="button-category sf-with-ul" ><?php echo $text_category; ?><i class="fa fa-bars"></i></a><?php if ($categories) {  echo $categories; } ?></li></ul>
+		
+	<div style="display: inline-block;
+    padding: 0px;
+    font-size: 29px;
+    line-height: 36px;
+    text-transform: uppercase;
+    color: #fff;
+    width: 890px;
+    background: #061043;">
+    	
+    	<div class="icondiv" style="margin-left: 5px;">
+    		<div class="iconimg" style="background: url('/image/icon-gas.png') no-repeat center;">&nbsp;</div>
+    		Aquecedor a gas
+    	</div>
+
+    	<div class="icondiv">
+    		<div class="iconimg" style="background: url('/image/icon-solar.png') no-repeat center;">&nbsp;</div>
+    		Aquecedor solar
+    	</div>
+
+    	<div class="icondiv">
+    		<div class="iconimg" style="background: url('/image/icon-ar.png') no-repeat center; background-size: 25%;">&nbsp;</div>
+    		Ar condicionado
+    	</div>
+
+    	<div class="icondiv">
+    		<div class="iconimg" style="background: url('/image/icon-bomba.png') no-repeat center; background-size: 25%;">&nbsp;</div>
+    		Bomba pressurizadora
+    	</div>
+
+    	<div class="icondiv">
+    		<div class="iconimg" style="background: url('/image/icon-aquecedor.png') no-repeat center;">&nbsp;</div>
+    		Climatizadores
+    	</div>
+
+    	<div class="icondiv">
+    		<div class="iconimg" style="background: url('/image/icon-portateis.png') no-repeat center; background-size: 25%;">&nbsp;</div>
+    		Portateis
+    	</div>
+
+
+	</div>
+
+		<?php /* 
+		<ul class="menu"><li><a class="button-category sf-with-ul" ><?php echo $text_category; ?><i class="fa fa-bars"></i></a><?php if ($categories) {  echo $categories; } ?></li></ul> */ ?>
 		<?php echo $search; ?>
+
+
 	</div>
 </div>
 <?php } ?>  
