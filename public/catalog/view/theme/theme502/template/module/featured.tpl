@@ -118,7 +118,7 @@
 				<?php } ?>
 				
 				<button class="btn btn-add" type="button" onclick="cart.add('<?php echo $product['product_id']; ?>');">
-					<i class="fa fa-shopping-cart"></i><span class="hidden-sm hidden-md"><?php echo $button_cart; ?></span>
+					<i class="fa fa-shopping-cart" style="font-size: 16px;"> Comprar</i>
 				</button>
 				
 			</div>

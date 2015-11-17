@@ -139,7 +139,7 @@
 			<?php echo $cart; ?>
 			<a class="button-checkout" href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"> <i class="fa fa-share"></i><span><?php echo $text_checkout; ?></span></a>
 			<div class="clear"></div>
-			<div class="box-right-bottom">
+			<div class="box-right-bottom" style="display: none;">
 				<a class="button-register" href="<?php echo $register; ?>"><i class="fa fa-user"></i><?php echo $text_register; ?></a>
 				<?php if ($logged) { ?>
 					<a href="<?php echo $logout; ?>"><i class="fa fa-unlock"></i><?php echo $text_logout; ?></a>
@@ -160,7 +160,8 @@
 			</ul>
 			<div class="clear"></div>
 			<div id="top-links" class="nav pull-right">
-			<ul class="list-inline">
+				<div style="margin-right: 20px; font-size: 28px; margin-top: -12px; color: #6EC4AA;">11 97649-5157</div>
+			<ul class="list-inline" style="display: none;">
 				<li class="first"><a href="<?php echo $home; ?>"><i class="fa fa-home hidden-lg"></i><span class="hidden-sm hidden-md"><?php echo $text_home; ?></span></a></li>
 				<li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart  hidden-lg"></i> <span class="hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
 				<li><a href="<?php echo $account; ?>"><i class="fa fa-user hidden-lg"></i><span class="hidden-sm hidden-md"><?php echo $text_account; ?></span></a></li>				
@@ -191,7 +192,7 @@
     	font-size: 10px;
 	}
 	.icondiv:hover {
-		background-color: #F7A553;
+		background-color: #6EC4AA;
 	}
 	.iconimg {
 	    height: 50px;

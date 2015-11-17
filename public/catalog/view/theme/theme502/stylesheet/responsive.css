@@ -801,13 +801,13 @@
 	}
 	aside .box-heading i {
 		float:right;
-		color:#F7A553;
+		color:#6EC4AA;
 		font-size:25px;
 		line-height:25px;
 		cursor:pointer;
 	}
 	aside .box-heading:hover i {
-		color:#fea000;
+		color:#6EC4AA;
 	}
 	#content {
 		margin-bottom:20px;
