@@ -2591,10 +2591,11 @@ a.quickview i {
 }
 a.quickview:hover {
 	background-color:#6EC4AA;
-	color:#fff
+	color:#fff;
+	display:none;
 }
 a.quickview {
-	display:inline-block;
+	display:none;
 	visibility:hidden;
 	z-index:5;
 	width: 107px;
@@ -2618,7 +2619,7 @@ a.quickview {
 }
 
 .product-thumb:hover a.quickview {
-	visibility:visible;
+	/* visibility:visible; */
 	top:50%;
 	opacity:1;
 }
@@ -3291,3 +3292,6 @@ html[lang="ru"] .addthis_button_tweet {
     border-bottom: solid 5px #050d44 !important;
 }
 */
+.quickview {
+	display: none;
+}
