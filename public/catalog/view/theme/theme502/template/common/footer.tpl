@@ -1,6 +1,20 @@
-<div style="margin: auto; width: 1200px; margin-bottom: 30px;">
-	<img src="/image/banner-agaplink.jpg" width="1200">
+<div class="container">
+	<div class="row">
+		<div id="content" class="col-sm-12" style="min-height: 0px;">
+			<div class="box featured">
+				<div class="box-heading"><h3>Ajude</h3></div>
+				<div class="box-content">
+					<div class="row">
+						<div style="margin: auto; width: 1170px; margin-bottom: 30px;">
+							<img src="/image/banner-agaplink.jpg" width="1170">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 </div>
+
 
 <footer>
   <div class="container">
