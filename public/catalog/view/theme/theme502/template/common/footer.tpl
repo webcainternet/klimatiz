@@ -18,7 +18,7 @@
 
 <footer>
   <div class="container">
-	<div class="row">
+	<div class="row" style="border-top: solid 5px #6EC4AA; padding-top: 50px;">
 		<div class="col-sm-2">
 			<?php if ($informations) { ?>
 			<div class="footer_box">

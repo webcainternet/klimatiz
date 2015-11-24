@@ -58,7 +58,6 @@ a:focus {
 }
 img {
 	max-width:100%;
-
 }
 
 legend {
@@ -989,17 +988,17 @@ aside .product-thumb {
 	position:relative;
 }
 .image a {
-	background:#f2f2f2;
+	/* background:#f2f2f2; */
 }
 .product-thumb .image a {
 	display: block;
 }
 .product-thumb .image a:hover img {
-	-moz-transform:scale(1.1,1.1);
-	-ms-transform: scale(1.1,1.1);
-	-o-transform:scale(1.1,1.1);
-	-webkit-transform:scale(1.1,1.1);
-	transform: scale(1.1,1.1);
+	-moz-transform:scale(1.5,1.5);
+	-ms-transform: scale(1.5,1.5);
+	-o-transform:scale(1.5,1.5);
+	-webkit-transform:scale(1.5,1.5);
+	transform: scale(1.5,1.5);
 }
 .product-thumb .image img {
 	margin-left: auto;
@@ -1245,16 +1244,16 @@ td .price, .price b {
 }
 /************** BOX ***********************/
 .box {
-	margin-bottom:30px;
+	margin-bottom:0px;
 }
 .box.featured,
 .box.bestsellers,
 .box.latest,
 .box.specials,
 .category-item {
-	padding:10px 30px 1px 30px;
+	padding:0px 30px 1px 30px;
 	background:#fff;
-	box-shadow: 0 0 18px rgba(0, 0, 0, 0.08);
+	/* box-shadow: 0 0 18px rgba(0, 0, 0, 0.08); */
 }
 .category-item {
 	padding:30px 30px 15px 30px;
@@ -1282,7 +1281,7 @@ aside .box {
     line-height: 35px;
     margin: 0 0 30px;
     text-transform: uppercase;
-    padding: 22px 20px 23px 30px;
+    padding: 0px 20px 23px 30px;
     text-align: center;
     color: #061043;
     border-bottom: solid 1px #061043;
@@ -1403,7 +1402,7 @@ a.button-checkout:active, a.button-checkout:focus {
 }
 #page {
 	overflow: hidden;
-    background: #e5e5e5;
+    background: #FFF;
     background-image: url('/image/bg80.png');
     background-repeat: repeat-x;
     background-position-y: 118px;
@@ -1674,7 +1673,7 @@ div.parallax > div {
 
 /***************HOME PAGE**********************/
 #container {
-	padding-top:30px;
+	padding-top:0px;
 }
 .header_modules .owl-carousel {
 	border:0;

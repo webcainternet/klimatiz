@@ -137,7 +137,7 @@
 		</div>
 		<div class="box-right">
 			<?php echo $cart; ?>
-			<a class="button-checkout" href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"> <i class="fa fa-share"></i><span><?php echo $text_checkout; ?></span></a>
+			<a class="button-checkout" style="border-radius: 5px;" href="<?php echo $checkout; ?>" title="<?php echo $text_checkout; ?>"> <i class="fa fa-share"></i><span><?php echo $text_checkout; ?></span></a>
 			<div class="clear"></div>
 			<div class="box-right-bottom" style="display: none;">
 				<a class="button-register" href="<?php echo $register; ?>"><i class="fa fa-user"></i><?php echo $text_register; ?></a>
@@ -160,7 +160,7 @@
 			</ul>
 			<div class="clear"></div>
 			<div id="top-links" class="nav pull-right">
-				<div style="margin-right: 20px; font-size: 28px; margin-top: -12px; color: #6EC4AA;">11 97649-5157</div>
+				<div style="margin-right: 20px; font-size: 28px; margin-top: -12px; color: #6EC4AA;">11 4003-4444</div>
 			<ul class="list-inline" style="display: none;">
 				<li class="first"><a href="<?php echo $home; ?>"><i class="fa fa-home hidden-lg"></i><span class="hidden-sm hidden-md"><?php echo $text_home; ?></span></a></li>
 				<li><a href="<?php echo $wishlist; ?>" id="wishlist-total" title="<?php echo $text_wishlist; ?>"><i class="fa fa-heart  hidden-lg"></i> <span class="hidden-sm hidden-md"><?php echo $text_wishlist; ?></span></a></li>
