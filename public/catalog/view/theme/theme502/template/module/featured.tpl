@@ -26,7 +26,7 @@
 					<div id="quickview_<?php echo $f?>">
 						<div>
 							<div class="left col-sm-4">
-									<div class="quickview_image image"><a href="<?php echo $product['href']; ?>"><img style="max-width: 70% !important;" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" src="<?php echo $product['thumb']; ?>" /></a></div>
+									<div class="quickview_image image"><a href="<?php echo $product['href']; ?>"><img alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" src="<?php echo $product['thumb']; ?>" /></a></div>
 								</div>
 								<div class="right col-sm-8">
 									<h2><?php echo $product['name']; ?></h2>
@@ -82,7 +82,7 @@
 				<?php if ($product['special']) { ?>
 					<div class="sale"><?php echo $text_sale; ?></div>
 				<?php } ?>
-				<a href="<?php echo $product['href']; ?>"><img style="max-width: 70% !important;" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive lazy" data-src="<?php echo $product['thumb']; ?>" src="image/catalog/preload.gif"  /></a>
+				<a href="<?php echo $product['href']; ?>"><img alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive lazy" data-src="<?php echo $product['thumb']; ?>" src="image/catalog/preload.gif"  /></a>
 				<a class="quickview" rel="group" href="#quickview_<?php echo $f?>">
 					<?php echo $text_quick; ?>
 				</a>

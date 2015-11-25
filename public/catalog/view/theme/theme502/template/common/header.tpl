@@ -211,35 +211,35 @@
     width: 890px;
     background: #061043;">
     	
-    	<div class="icondiv" style="margin-left: 5px;">
+    	<a style="color: #FFFFFF;" href="/aquecedor-de-agua-a-gas"><div class="icondiv" style="margin-left: 5px;">
     		<div class="iconimg" style="background: url('/image/icon-gas.png') no-repeat center;">&nbsp;</div>
     		Aquecedor a gas
-    	</div>
+    	</div></a>
 
-    	<div class="icondiv">
+    	<a style="color: #FFFFFF;" href="/aquecedor-de-agua-solar"><div class="icondiv">
     		<div class="iconimg" style="background: url('/image/icon-solar.png') no-repeat center;">&nbsp;</div>
     		Aquecedor solar
-    	</div>
+    	</div></a>
 
-    	<div class="icondiv">
+    	<a style="color: #FFFFFF;" href="/ar-condicionado"><div class="icondiv">
     		<div class="iconimg" style="background: url('/image/icon-ar.png') no-repeat center; background-size: 25%;">&nbsp;</div>
     		Ar condicionado
-    	</div>
+    	</div></a>
 
-    	<div class="icondiv">
+    	<a style="color: #FFFFFF;" href="/bomba-pressurizadora"><div class="icondiv">
     		<div class="iconimg" style="background: url('/image/icon-bomba.png') no-repeat center; background-size: 25%;">&nbsp;</div>
     		Bomba pressurizadora
-    	</div>
+    	</div></a>
 
-    	<div class="icondiv">
+    	<a style="color: #FFFFFF;" href="/climatizadores"><div class="icondiv">
     		<div class="iconimg" style="background: url('/image/icon-aquecedor.png') no-repeat center;">&nbsp;</div>
     		Climatizadores
-    	</div>
+    	</div></a>
 
-    	<div class="icondiv">
+    	<a style="color: #FFFFFF;" href="/portateis"><div class="icondiv">
     		<div class="iconimg" style="background: url('/image/icon-portateis.png') no-repeat center; background-size: 25%;">&nbsp;</div>
     		Portateis
-    	</div>
+    	</div></a>
 
 
 	</div>

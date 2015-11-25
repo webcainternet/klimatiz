@@ -994,11 +994,11 @@ aside .product-thumb {
 	display: block;
 }
 .product-thumb .image a:hover img {
-	-moz-transform:scale(1.5,1.5);
-	-ms-transform: scale(1.5,1.5);
-	-o-transform:scale(1.5,1.5);
-	-webkit-transform:scale(1.5,1.5);
-	transform: scale(1.5,1.5);
+	-moz-transform:scale(1.1,1.1);
+	-ms-transform: scale(1.1,1.1);
+	-o-transform:scale(1.1,1.1);
+	-webkit-transform:scale(1.1,1.1);
+	transform: scale(1.1,1.1);
 }
 .product-thumb .image img {
 	margin-left: auto;
@@ -3293,4 +3293,7 @@ html[lang="ru"] .addthis_button_tweet {
 */
 .quickview {
 	display: none;
+}
+.para01 {
+	padding: 200px 0px 0px 0px;margin: auto;width: 300px;
 }
