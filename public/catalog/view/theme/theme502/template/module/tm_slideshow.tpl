@@ -4,6 +4,8 @@
 		width: 32%;
 		text-align: center;
 		height: 47px;
+		border-right: solid 1px #FFFFFF;
+		padding-top: 6px;
 	}
 	.homeespaco {
 		    background-color: #6EC4AA;
@@ -12,9 +14,7 @@
 		    height: 47px;
 		    color: #ffffff;
 		    line-height: 17px;
-		    padding-top: 6px;
-		    letter-spacing: 3px;
-		    font-size: 12px;
+		    font-size: 16px;
 	}
 	.iconeshome {
 	    background-repeat: no-repeat;
@@ -24,9 +24,9 @@
 </style>
 <div style="background-color: #6EC4AA;">
 	<div class="homeespaco">
-	<div class="itenshome"><div class="iconeshome" style="width: 285px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">Mais de 1000 assistências <br>técnicas em todo o Brasil</div></div>
-	<div class="itenshome"><div class="iconeshome" style="width: 245px; margin: auto; background-image: url('/image/ic_https_white_48dp_1x.png');">Compre com segurança<br>Site  100% seguro</div></div>
-	<div class="itenshome"><div class="iconeshome" style="width: 370px; margin: auto; background-image: url('/image/ic_face_white_48dp_1x.png');">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div></div>
+	<div class="itenshome"><div class="iconeshome" style="width: 260px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">Mais de 1000 assistências <br>técnicas em todo o Brasil</div></div>
+	<div class="itenshome"><div class="iconeshome" style="width: 235px; margin: auto; background-image: url('/image/ic_https_white_48dp_1x.png');">Compre com segurança<br>Site  100% seguro</div></div>
+	<div class="itenshome" style="border: 0px;"><div class="iconeshome" style="width: 335px; margin: auto; background-image: url('/image/ic_face_white_48dp_1x.png');">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div></div>
 	</div>
 </div>
 <script>
