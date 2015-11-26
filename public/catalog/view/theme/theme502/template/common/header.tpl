@@ -198,6 +198,9 @@
 	    height: 50px;
 	    margin-bottom: -6px;
 	}
+	#tab-description {
+		text-align: center;
+	}
 </style>
 <div class="container">
 	<div id="tm_menu">			
