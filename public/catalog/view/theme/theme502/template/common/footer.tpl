@@ -6,7 +6,7 @@
 				<div class="box-content">
 					<div class="row">
 						<div style="margin: auto; width: 1170px; margin-bottom: 30px;">
-							<img src="/image/banner-agaplink.jpg" width="1170">
+							<a href="http://www.agaplink.com/" target="_blank"><img src="/image/banner-agaplink.jpg" width="1170"></a>
 						</div>
 					</div>
 				</div>
