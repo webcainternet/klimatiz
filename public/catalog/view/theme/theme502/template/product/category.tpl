@@ -25,7 +25,7 @@
 		</div>
 		<?php } ?>
 		<?php if ($description) { ?>
-		<div class="col-sm-10"><?php echo $description; ?></div>
+		<?php /* <div class="col-sm-10"><?php echo $description; ?></div> */ ?>
 		<?php } ?>
 	  </div>
 	  <br><br>
