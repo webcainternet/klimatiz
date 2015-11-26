@@ -16,12 +16,17 @@
 		    letter-spacing: 3px;
 		    font-size: 12px;
 	}
+	.iconeshome {
+	    background-repeat: no-repeat;
+	    background-size: 25px;
+	    background-position: 5px 5px;
+	}
 </style>
 <div style="background-color: #6EC4AA;">
 	<div class="homeespaco">
-	<div class="itenshome">Mais de 1000 assistências <br>técnicas em todo o Brasil</div>
-	<div class="itenshome">Compre com segurança<br>Site  100% seguro</div>
-	<div class="itenshome">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div>
+	<div class="itenshome"><div class="iconeshome" style="width: 285px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">Mais de 1000 assistências <br>técnicas em todo o Brasil</div></div>
+	<div class="itenshome"><div class="iconeshome" style="width: 240px; margin: auto; background-image: url('/image/ic_https_white_48dp_1x.png');">Compre com segurança<br>Site  100% seguro</div></div>
+	<div class="itenshome"><div class="iconeshome" style="width: 360px; margin: auto; background-image: url('/image/ic_face_white_48dp_1x.png');">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div></div>
 	</div>
 </div>
 <script>
