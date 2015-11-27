@@ -47,7 +47,7 @@
 }
 .parallax>div a {
 	position:relative;
-	background-color: #6EC4AA;
+	background-color: rgba(110, 196, 170, 0.7);
 	color: #fff;
 	display: inline-block;
 	font-size: 18px;

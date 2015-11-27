@@ -3297,10 +3297,15 @@ html[lang="ru"] .addthis_button_tweet {
 }
 .para01 {
 	padding: 150px 0px 0px 0px;margin: auto;width: 300px;
+	margin-left: 800px;
 }
 .mousehover {
 	cursor: pointer !important;
 }
 a {
 	cursor: pointer !important;
+}
+
+.backgroundparallax {
+	background-color: rgba(110, 196, 170, 0.7);
 }
