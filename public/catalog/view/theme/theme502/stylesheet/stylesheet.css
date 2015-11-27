@@ -3309,3 +3309,7 @@ a {
 .backgroundparallax {
 	background-color: rgba(110, 196, 170, 0.7);
 }
+
+.para01 h1 {
+	color: #FFF;
+}
