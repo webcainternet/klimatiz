@@ -25,7 +25,7 @@
 <div style="background-color: #6EC4AA;">
 	<div class="homeespaco">
 	<div class="itenshome"><div class="iconeshome" style="width: 300px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">
-		Mais de 1000 técnicos credenciados<br>Komeco em todo o Brasil</div></div>
+		Mais de 1000 técnicos credenciados <br>pela Komeco em todo o Brasi</div></div>
 	<div class="itenshome"><div class="iconeshome" style="width: 235px; margin: auto; background-image: url('/image/ic_https_white_48dp_1x.png');">Compre com segurança<br>Site  100% seguro</div></div>
 	<a class="mousehover" href="http://www.agaplink.com/" target="_blank" style="color: #FFF;">
 		<div class="itenshome mousehover" style="border: 0px;">
