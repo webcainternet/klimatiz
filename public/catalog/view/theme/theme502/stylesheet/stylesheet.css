@@ -3308,8 +3308,10 @@ a {
 
 .backgroundparallax {
 	background-color: rgba(110, 196, 170, 0.7);
+	font-size: 36px;
 }
 
 .para01 h3 {
 	color: #FFF;
+    font-size: 46px;
 }
