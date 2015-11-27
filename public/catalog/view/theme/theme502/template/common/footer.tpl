@@ -69,7 +69,7 @@
 				<img style="margin-top: -15px;" src="/image/bandeiras.png">
 
 				<h5 style="margin-top: 10px; font-size: 12px;">Certificado de Segurança:</h5>
-				<img style="margin-top: -13px;" src="/image/selo-ssl.png">
+				<a href="http://www.comodobr.com/" target="_blank"><img style="margin-top: -13px;" src="/image/selo-ssl.png"></a>
 			</div>
 		</div>
 	</div>

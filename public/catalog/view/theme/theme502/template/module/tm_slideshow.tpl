@@ -24,9 +24,14 @@
 </style>
 <div style="background-color: #6EC4AA;">
 	<div class="homeespaco">
-	<div class="itenshome"><div class="iconeshome" style="width: 260px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">Mais de 1000 assistências <br>técnicas em todo o Brasil</div></div>
+	<div class="itenshome"><div class="iconeshome" style="width: 300px; margin: auto; background-image: url('/image/ic_build_white_48dp_1x.png');">
+		Mais de 1000 técnicos credenciados<br>Komeco em todo o Brasil</div></div>
 	<div class="itenshome"><div class="iconeshome" style="width: 235px; margin: auto; background-image: url('/image/ic_https_white_48dp_1x.png');">Compre com segurança<br>Site  100% seguro</div></div>
-	<div class="itenshome" style="border: 0px;"><div class="iconeshome" style="width: 335px; margin: auto; background-image: url('/image/ic_face2_white_48dp_1x.png'); background-size: 35px; background-position: 0px;">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div></div>
+	<a class="mousehover" href="http://www.agaplink.com/" target="_blank" style="color: #FFF;">
+		<div class="itenshome mousehover" style="border: 0px;">
+			<div class="iconeshome mousehover" style="width: 335px; margin: auto; background-image: url('/image/ic_face2_white_48dp_1x.png'); background-size: 35px; background-position: 0px;">Comprando um produto, você escolhe a<br>entidade social que queira ajudar</div>
+		</div>
+	</a>
 	</div>
 </div>
 <script>
